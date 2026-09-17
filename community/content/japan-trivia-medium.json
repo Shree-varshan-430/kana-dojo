@@ -162,6 +162,17 @@
     "Shichi-Go-San"
   ],
   "correctIndex": 0
+},
+  {
+  "question": "What is the Japanese term for a portable shrine?",
+  "difficulty": "medium",
+  "answers": [
+    "Mikoshi",
+    "Torii",
+    "Kagura",
+    "Omikoshi"
+  ],
+  "correctIndex": 0
 }
 ]
 
